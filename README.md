@@ -9,8 +9,8 @@ See [https://github.com/tansaku/DoubleExercise](https://github.com/tansaku/Doubl
 
 Please fork and clone this repository to get set up for github pong.  To get ready to github pong with your partner execute the following git command in your DoubleExercise directory:
 
-  git remote add <partner-name> <partner-repo>
+`git remote add <partner-name> <partner-repo>`
   
 For example to github pong with sam:
 
-  git remote add sam https://github.com/tansaku/DoubleExercise
+`git remote add sam https://github.com/tansaku/DoubleExercise`
