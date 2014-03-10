@@ -19,8 +19,10 @@ The customer stories for this domain include:
 
 ```As an administrator 
 So that I can respond to questions about train locations
-I want to be able to see a list of which trains are in which stations```
+I want to be able to see a list of which trains are in which stations
+```
 
 ```As a driver 
 So that I can get passengers to their destination
-I want to be able to move a train to the next station```
+I want to be able to move a train to the next station
+```
