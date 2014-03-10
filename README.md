@@ -14,3 +14,13 @@ Please fork and clone this repository to get set up for github pong.  To get rea
 For example to github pong with sam:
 
 `git remote add sam https://github.com/tansaku/DoubleExercise`
+
+The customer stories for this domain include:
+
+`As an administrator 
+So that I can respond to questions about train locations
+I want to be able to see a list of which trains are in which stations`
+
+`As a driver 
+So that I can get passengers to their destination
+I want to be able to move a train to the next station`
